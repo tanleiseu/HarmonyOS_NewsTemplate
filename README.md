@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 新闻资讯类行业模板 | 
 |:---:|
-| ![输入图片说明](News/screenshots/%E9%A6%96%E9%A1%B5.jpeg)| 
+|![输入图片说明](%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E7%B1%BB%E8%A1%8C%E4%B8%9A%E6%A8%A1%E6%9D%BF.jpeg)| 
